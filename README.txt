@@ -1,8 +1,3 @@
-						ASSIGNMENT-2
-
-Name:	SIDDHANT JAWA
-E-mail: sjawa@usc.edu
-Id: 	7769-2282-69
 
 Instruction:
 
